@@ -32,7 +32,7 @@ use "ssh opennebula"
 **Current IP for the system :** 192.168.119.198
 #### Error : Fireedge_key is not available
 
-![[Pasted image 20240820153112.png]]
+![Pasted image 20240820153112.png](https://github.com/Dharanesh-BM/Opennebula/blob/main/Pasted%20image%2020240820153112.png)
 **Solution:**
 
 ```bash
@@ -81,7 +81,7 @@ Trying to run VM using client machine
 
 #### ERROR : *TUNNEL_ERROR*  in VNC (client machine)
 ##### SUB-ERROR : *FireEdge public endpoint is not working, please contact your cloud administrator.*
-![[./2024-08-22_11-23.png]]
+![./2024-08-22_11-23.png](https://github.com/Dharanesh-BM/Opennebula/blob/main/2024-08-22_11-23.png)
 
 Tried changing `/etc/one/sunstone-server.config`
 
