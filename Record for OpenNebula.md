@@ -81,7 +81,7 @@ Trying to run VM using client machine
 
 #### ERROR : *TUNNEL_ERROR*  in VNC (client machine)
 ##### SUB-ERROR : *FireEdge public endpoint is not working, please contact your cloud administrator.*
-![[2024-08-22_11-23.png]]
+![[./2024-08-22_11-23.png]]
 
 Tried changing `/etc/one/sunstone-server.config`
 
